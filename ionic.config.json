@@ -1,0 +1,7 @@
+{
+  "name": "RideSeva",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
